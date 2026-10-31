@@ -1,0 +1,115 @@
+
+[
+  {
+    "id": "programme-2027-reference",
+    "category": "Programme et présentation",
+    "title": "Quelle est la référence du programme L'Avenir en commun pour 2027 ?",
+    "version": "2027",
+    "status": "verified",
+    "keywords": [
+      "programme",
+      "avenir en commun",
+      "2027",
+      "nouvelle france",
+      "presidentielle",
+      "programme officiel",
+      "mesures",
+      "edition"
+    ],
+    "answer": "La référence programmatique de La France insoumise pour l'élection présidentielle de 2027 est L'Avenir en commun. Au 31 octobre 2026, la cinquième édition annoncée comporte 1 069 mesures, mais sa présentation et sa publication intégrale sont prévues les 6 et 7 novembre 2026. Dans l'attente, la version officielle détaillée de janvier 2025, comprenant 831 mesures, constitue notre base documentaire provisoire. Il faut donc toujours préciser de quelle édition provient une proposition.",
+    "sources": [
+      "Programme officiel : https://melenchon2027.fr/programme/decouvrir/",
+      "Version officielle 2025 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+      "Historique des éditions : https://melenchon2027.fr/comment-a-ete-concu-le-programme/"
+    ]
+  },
+  {
+    "id": "programme-structure",
+    "category": "Programme et présentation",
+    "title": "Comment est organisé L'Avenir en commun ?",
+    "version": "2025",
+    "status": "verified",
+    "keywords": [
+      "organisation",
+      "structure",
+      "chapitres",
+      "themes",
+      "programme",
+      "revolution citoyenne",
+      "harmonie",
+      "nature",
+      "monde"
+    ],
+    "answer": "L'édition 2025 de L'Avenir en commun est organisée autour de quatre grandes parties et de 18 chapitres. Elle aborde notamment la révolution citoyenne, l'organisation économique et sociale, l'harmonie entre les êtres humains et la nature, ainsi que les relations internationales. Cette organisation permet de retrouver les propositions par grands domaines politiques.",
+    "sources": [
+      "L'Avenir en commun, édition 2025, introduction et table des matières : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf"
+    ]
+  },
+  {
+    "id": "construction-programme",
+    "category": "Programme et présentation",
+    "title": "Comment le programme a-t-il été construit ?",
+    "version": "2025",
+    "status": "verified",
+    "keywords": [
+      "construction",
+      "contributions",
+      "citoyens",
+      "experts",
+      "syndicats",
+      "associations",
+      "elaboration",
+      "origine",
+      "fabrication"
+    ],
+    "answer": "Selon la présentation officielle, L'Avenir en commun s'est construit progressivement depuis 2016 à partir de contributions citoyennes, d'auditions d'experts, de travaux parlementaires et de contributions de groupes thématiques. La version 2025 a notamment intégré des actualisations et des propositions supplémentaires par rapport à la version précédente.",
+    "sources": [
+      "Présentation officielle de la construction du programme : https://melenchon2027.fr/comment-a-ete-concu-le-programme/",
+      "L'Avenir en commun 2025 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf"
+    ]
+  },
+  {
+    "id": "plans-thematiques",
+    "category": "Programme et présentation",
+    "title": "Que sont les plans thématiques de L'Avenir en commun ?",
+    "version": "2027",
+    "status": "verified",
+    "keywords": [
+      "plans",
+      "livrets",
+      "thematique",
+      "documents",
+      "approfondir",
+      "objectifs",
+      "actions",
+      "details",
+      "propositions"
+    ],
+    "answer": "Les plans thématiques sont des documents complémentaires au programme. Ils approfondissent les objectifs politiques et détaillent les actions envisagées dans différents domaines. Ils sont élaborés collectivement avec les groupes thématiques et parlementaires de La France insoumise. Ils permettent de compléter les informations générales du livre-programme.",
+    "sources": [
+      "Site officiel des plans thématiques : https://melenchon2027.fr/programme/plans-thematiques/"
+    ]
+  },
+  {
+    "id": "programme-2027-publication",
+    "category": "Programme et présentation",
+    "title": "La nouvelle édition 2027 est-elle intégralement publiée ?",
+    "version": "2027",
+    "status": "verified",
+    "keywords": [
+      "publication",
+      "disponible",
+      "nouvelle edition",
+      "1069",
+      "date",
+      "novembre",
+      "livre",
+      "sortie"
+    ],
+    "answer": "Au 31 octobre 2026, la cinquième édition de L'Avenir en commun est annoncée avec 1 069 mesures et doit être présentée les 6 et 7 novembre 2026. Nous ne devons donc pas présenter son contenu intégral comme déjà vérifié. Les propositions devront être actualisées dans notre documentation après la publication effective du programme.",
+    "sources": [
+      "Page officielle de présentation du programme 2027 : https://melenchon2027.fr/programme/decouvrir/",
+      "Article de LCP du 23 septembre 2026 : https://lcp.fr/actualites/presidentielle-le-programme-remanie-de-la-nouvelle-france-de-jean-luc-melenchon-sera"
+    ]
+  }
+]
