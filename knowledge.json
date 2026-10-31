@@ -113,3 +113,182 @@
     ]
   }
 ]
+
+
+[
+  {
+    "id": "retraites-age-depart",
+    "category": "Retraites",
+    "title": "Quel est l'âge de départ à la retraite proposé par LFI ?",
+    "version": "2025",
+    "status": "verified",
+    "keywords": [
+      "retraite",
+      "retraites",
+      "partir",
+      "age",
+      "60 ans",
+      "soixante ans",
+      "quarante ans",
+      "40 annuites",
+      "cotisations",
+      "pension",
+      "bosser plus longtemps",
+      "travailler jusqu'a 64 ans",
+      "macron",
+      "reforme retraite"
+    ],
+    "answer": "Dans l'édition 2025 de L'Avenir en commun, La France insoumise propose d'abroger la réforme portant l'âge légal de départ à 64 ans et de restaurer le droit à la retraite à 60 ans à taux plein après 40 annuités de cotisations. Il s'agit d'une proposition politique, et non du droit actuellement applicable. La synthèse des contributions préparatoires à l'actualisation de 2027 indique que la retraite à 60 ans figure déjà dans le programme existant.",
+    "sources": [
+      "L'Avenir en commun 2025, chapitre 8, page 74 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+      "Synthèse des contributions : https://melenchon2027.fr/synthese-des-contributions/"
+    ]
+  },
+  {
+    "id": "retraites-montant-pensions",
+    "category": "Retraites",
+    "title": "Quel montant de retraite est proposé pour les carrières complètes ?",
+    "version": "2025",
+    "status": "verified",
+    "keywords": [
+      "pension",
+      "pensions",
+      "retraite",
+      "minimum",
+      "petite retraite",
+      "smic",
+      "carriere complete",
+      "pouvoir achat retraite",
+      "pension digne",
+      "minimum vieillesse",
+      "personnes agees",
+      "vieux",
+      "retraite pauvre"
+    ],
+    "answer": "L'édition 2025 propose de porter au minimum toutes les pensions au niveau du SMIC revalorisé pour les personnes ayant une carrière complète, qu'elles aient été salariées, indépendantes ou agricultrices. Elle propose également de porter le minimum vieillesse au niveau du seuil de pauvreté. Ces deux objectifs concernent des dispositifs différents et ne doivent pas être confondus. La proposition ne signifie pas que toutes les pensions seraient automatiquement identiques.",
+    "sources": [
+      "L'Avenir en commun 2025, chapitre 8, page 74 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+      "Synthèse des contributions : https://melenchon2027.fr/synthese-des-contributions/"
+    ]
+  },
+  {
+    "id": "retraites-financement",
+    "category": "Retraites",
+    "title": "Comment LFI propose-t-elle de financer les retraites ?",
+    "version": "2025",
+    "status": "verified",
+    "keywords": [
+      "financer",
+      "financement",
+      "retraite",
+      "retraites",
+      "cotisations",
+      "dividendes",
+      "actionnaires",
+      "entreprises",
+      "argent",
+      "fric",
+      "thune",
+      "oseille",
+      "budget",
+      "caisse retraite",
+      "regime retraite",
+      "qui paie"
+    ],
+    "answer": "Dans l'édition 2025, le programme propose plusieurs leviers de financement : augmenter le taux de cotisation vieillesse de 0,25 point par an durant le quinquennat et soumettre à cotisation les dividendes, les revenus d'intéressement, de participation, d'épargne salariale ainsi que les revenus financiers des entreprises. Il prévoit également une indexation des retraites sur les salaires. Ces éléments décrivent les mécanismes proposés par le programme. Ils ne constituent pas à eux seuls un chiffrage complet du coût et des recettes de la réforme.",
+    "sources": [
+      "L'Avenir en commun 2025, chapitre 8, page 74 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf"
+    ]
+  },
+  {
+    "id": "salaires-smic",
+    "category": "Salaires et pouvoir d'achat",
+    "title": "Quel SMIC LFI propose-t-elle ?",
+    "version": "2025",
+    "status": "verified",
+    "keywords": [
+      "smic",
+      "salaire",
+      "minimum",
+      "1600 euros",
+      "1600 net",
+      "augmentation",
+      "augmentation salaire",
+      "fin de mois",
+      "payer",
+      "petit salaire",
+      "bas salaire",
+      "paie",
+      "fiche de paie",
+      "net",
+      "travail",
+      "gagner plus"
+    ],
+    "answer": "Dans l'édition 2025 de L'Avenir en commun, La France insoumise propose de porter immédiatement le SMIC mensuel à 1 600 euros net. Il s'agit d'un objectif politique exprimé dans le programme et non du montant du SMIC actuellement applicable. Le programme prévoit également une indexation des salaires sur l'inflation dans le secteur privé et la fonction publique.",
+    "sources": [
+      "L'Avenir en commun 2025, chapitre 8, page 68 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+      "Synthèse des contributions : https://melenchon2027.fr/synthese-des-contributions/"
+    ]
+  },
+  {
+    "id": "temps-travail",
+    "category": "Travail et salaires",
+    "title": "Quelles sont les propositions sur le temps de travail ?",
+    "version": "2025",
+    "status": "verified",
+    "keywords": [
+      "35 heures",
+      "32 heures",
+      "semaine",
+      "quatre jours",
+      "4 jours",
+      "temps travail",
+      "travailler moins",
+      "bosser moins",
+      "horaires",
+      "heures supplementaires",
+      "conges",
+      "conges payes",
+      "travail nuit",
+      "penibilite",
+      "metier penible"
+    ],
+    "answer": "L'édition 2025 propose de rétablir immédiatement la durée légale hebdomadaire à 35 heures, de passer aux 32 heures dans les métiers pénibles ou de nuit et de favoriser leur généralisation par la négociation collective. Elle propose aussi une sixième semaine de congés payés pour tous les salariés. Le programme distingue donc la durée légale générale et la réduction du temps de travail dans certaines professions.",
+    "sources": [
+      "L'Avenir en commun 2025, chapitre 8, page 66 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+      "Synthèse des contributions : https://melenchon2027.fr/synthese-des-contributions/"
+    ]
+  },
+  {
+    "id": "pouvoir-achat-prix",
+    "category": "Pouvoir d'achat",
+    "title": "Quelles mesures sont proposées pour lutter contre la vie chère ?",
+    "version": "2025",
+    "status": "verified",
+    "keywords": [
+      "vie chere",
+      "inflation",
+      "prix",
+      "bloquer les prix",
+      "prix alimentation",
+      "essence",
+      "carburant",
+      "electricite",
+      "gaz",
+      "courses",
+      "supermarche",
+      "nourriture",
+      "courses alimentaires",
+      "fin de mois",
+      "pouvoir achat",
+      "factures",
+      "loyer",
+      "APL",
+      "prix energie"
+    ],
+    "answer": "Dans l'édition 2025, le programme propose de bloquer les prix des produits de première nécessité, notamment l'alimentation, l'énergie et les carburants, et d'interdire la réduflation. Il prévoit aussi une augmentation du SMIC à 1 600 euros net mensuel, une hausse des minima sociaux et une revalorisation des APL de 10 %. Ces mesures sont des propositions programmatiques. Leur mise en œuvre et leurs effets économiques doivent être examinés séparément.",
+    "sources": [
+      "L'Avenir en commun 2025, chapitre 9, page 75 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf"
+    ]
+  }
+]
