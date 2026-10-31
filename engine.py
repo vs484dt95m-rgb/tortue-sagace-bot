@@ -270,3 +270,7 @@ def answer(question):
         return UNKNOWN_ANSWER
 
     return format_answer(document)
+    documents = [
+    item for item in load_knowledge()
+    if item.get("status") == "verified"
+]
