@@ -1,26 +1,20 @@
 
 [
   {
-    "id": "programme-2027-reference",
+    "id": "programme-reference",
     "category": "Programme et présentation",
-    "title": "Quelle est la référence du programme L'Avenir en commun pour 2027 ?",
-    "version": "2027",
+    "title": "Quelle est la référence du programme L'Avenir en commun ?",
+    "version": "2025",
     "status": "verified",
     "keywords": [
-      "programme",
-      "avenir en commun",
-      "2027",
-      "nouvelle france",
-      "presidentielle",
-      "programme officiel",
-      "mesures",
-      "edition"
+      "programme", "avenir en commun", "2027", "2025",
+      "programme officiel", "mesures", "projet politique",
+      "la france insoumise", "lfi", "programme présidentiel"
     ],
-    "answer": "La référence programmatique de La France insoumise pour l'élection présidentielle de 2027 est L'Avenir en commun. Au 31 octobre 2026, la cinquième édition annoncée comporte 1 069 mesures, mais sa présentation et sa publication intégrale sont prévues les 6 et 7 novembre 2026. Dans l'attente, la version officielle détaillée de janvier 2025, comprenant 831 mesures, constitue notre base documentaire provisoire. Il faut donc toujours préciser de quelle édition provient une proposition.",
+    "answer": "L'Avenir en commun est le programme de La France insoumise. La version détaillée de 2025 comprend 831 mesures. Une nouvelle édition pour 2027 est annoncée. Il faut toujours préciser de quelle édition provient une proposition afin de ne pas confondre les versions.",
     "sources": [
-      "Programme officiel : https://melenchon2027.fr/programme/decouvrir/",
-      "Version officielle 2025 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
-      "Historique des éditions : https://melenchon2027.fr/comment-a-ete-concu-le-programme/"
+      "https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+      "https://melenchon2027.fr/programme/decouvrir/"
     ]
   },
   {
@@ -30,19 +24,13 @@
     "version": "2025",
     "status": "verified",
     "keywords": [
-      "organisation",
-      "structure",
-      "chapitres",
-      "themes",
-      "programme",
-      "revolution citoyenne",
-      "harmonie",
-      "nature",
-      "monde"
+      "organisation", "structure", "chapitres", "themes",
+      "révolution citoyenne", "harmonie", "nature",
+      "monde", "économie", "social"
     ],
-    "answer": "L'édition 2025 de L'Avenir en commun est organisée autour de quatre grandes parties et de 18 chapitres. Elle aborde notamment la révolution citoyenne, l'organisation économique et sociale, l'harmonie entre les êtres humains et la nature, ainsi que les relations internationales. Cette organisation permet de retrouver les propositions par grands domaines politiques.",
+    "answer": "L'édition 2025 de L'Avenir en commun est organisée autour de quatre grandes parties et de 18 chapitres. Elle aborde la révolution citoyenne, l'organisation économique et sociale, l'harmonie entre les êtres humains et la nature ainsi que les relations internationales.",
     "sources": [
-      "L'Avenir en commun, édition 2025, introduction et table des matières : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf"
+      "https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf"
     ]
   },
   {
@@ -52,70 +40,48 @@
     "version": "2025",
     "status": "verified",
     "keywords": [
-      "construction",
-      "contributions",
-      "citoyens",
-      "experts",
-      "syndicats",
-      "associations",
-      "elaboration",
-      "origine",
-      "fabrication"
+      "construction", "contributions", "citoyens",
+      "experts", "syndicats", "associations",
+      "élaboration", "fabrication", "origine"
     ],
-    "answer": "Selon la présentation officielle, L'Avenir en commun s'est construit progressivement depuis 2016 à partir de contributions citoyennes, d'auditions d'experts, de travaux parlementaires et de contributions de groupes thématiques. La version 2025 a notamment intégré des actualisations et des propositions supplémentaires par rapport à la version précédente.",
+    "answer": "L'Avenir en commun s'est construit progressivement depuis 2016 à partir de contributions citoyennes, d'auditions d'experts, de travaux parlementaires et de contributions de groupes thématiques.",
     "sources": [
-      "Présentation officielle de la construction du programme : https://melenchon2027.fr/comment-a-ete-concu-le-programme/",
-      "L'Avenir en commun 2025 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf"
+      "https://melenchon2027.fr/comment-a-ete-concu-le-programme/",
+      "https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf"
     ]
   },
   {
     "id": "plans-thematiques",
     "category": "Programme et présentation",
-    "title": "Que sont les plans thématiques de L'Avenir en commun ?",
+    "title": "Que sont les plans thématiques ?",
     "version": "2027",
     "status": "verified",
     "keywords": [
-      "plans",
-      "livrets",
-      "thematique",
-      "documents",
-      "approfondir",
-      "objectifs",
-      "actions",
-      "details",
-      "propositions"
+      "plans", "livrets", "thématiques", "documents",
+      "approfondir", "objectifs", "actions",
+      "propositions", "détails"
     ],
-    "answer": "Les plans thématiques sont des documents complémentaires au programme. Ils approfondissent les objectifs politiques et détaillent les actions envisagées dans différents domaines. Ils sont élaborés collectivement avec les groupes thématiques et parlementaires de La France insoumise. Ils permettent de compléter les informations générales du livre-programme.",
+    "answer": "Les plans thématiques sont des documents complémentaires au programme. Ils approfondissent les objectifs politiques et détaillent les actions envisagées dans différents domaines. Ils permettent de compléter les informations générales du livre-programme.",
     "sources": [
-      "Site officiel des plans thématiques : https://melenchon2027.fr/programme/plans-thematiques/"
+      "https://melenchon2027.fr/programme/plans-thematiques/"
     ]
   },
   {
     "id": "programme-2027-publication",
     "category": "Programme et présentation",
-    "title": "La nouvelle édition 2027 est-elle intégralement publiée ?",
+    "title": "La nouvelle édition 2027 est-elle publiée ?",
     "version": "2027",
     "status": "verified",
     "keywords": [
-      "publication",
-      "disponible",
-      "nouvelle edition",
-      "1069",
-      "date",
-      "novembre",
-      "livre",
-      "sortie"
+      "publication", "disponible", "nouvelle édition",
+      "1069", "novembre", "livre", "sortie"
     ],
-    "answer": "Au 31 octobre 2026, la cinquième édition de L'Avenir en commun est annoncée avec 1 069 mesures et doit être présentée les 6 et 7 novembre 2026. Nous ne devons donc pas présenter son contenu intégral comme déjà vérifié. Les propositions devront être actualisées dans notre documentation après la publication effective du programme.",
+    "answer": "La cinquième édition de L'Avenir en commun est annoncée avec 1 069 mesures. Sa présentation est prévue les 6 et 7 novembre 2026. Tant que son contenu intégral n'a pas été publié et vérifié, les réponses détaillées doivent s'appuyer sur les éditions effectivement disponibles et identifier clairement leur version.",
     "sources": [
-      "Page officielle de présentation du programme 2027 : https://melenchon2027.fr/programme/decouvrir/",
-      "Article de LCP du 23 septembre 2026 : https://lcp.fr/actualites/presidentielle-le-programme-remanie-de-la-nouvelle-france-de-jean-luc-melenchon-sera"
+      "https://melenchon2027.fr/programme/decouvrir/",
+      "https://melenchon2027.fr/comment-a-ete-concu-le-programme/"
     ]
-  }
-]
-
-
-[
+  },
   {
     "id": "retraites-age-depart",
     "category": "Retraites",
@@ -123,25 +89,19 @@
     "version": "2025",
     "status": "verified",
     "keywords": [
-      "retraite",
-      "retraites",
-      "partir",
-      "age",
-      "60 ans",
-      "soixante ans",
-      "quarante ans",
-      "40 annuites",
-      "cotisations",
-      "pension",
-      "bosser plus longtemps",
-      "travailler jusqu'a 64 ans",
-      "macron",
-      "reforme retraite"
+      "retraite", "retraites", "âge", "60 ans",
+      "soixante ans", "64 ans", "macron",
+      "réforme retraite", "réforme des retraites",
+      "partir", "départ", "cotisations",
+      "40 annuités", "carrière", "travail",
+      "travailler plus longtemps", "bosser",
+      "quand partir", "âge légal", "pension",
+      "vieux", "vieillesse", "fin de carrière"
     ],
-    "answer": "Dans l'édition 2025 de L'Avenir en commun, La France insoumise propose d'abroger la réforme portant l'âge légal de départ à 64 ans et de restaurer le droit à la retraite à 60 ans à taux plein après 40 annuités de cotisations. Il s'agit d'une proposition politique, et non du droit actuellement applicable. La synthèse des contributions préparatoires à l'actualisation de 2027 indique que la retraite à 60 ans figure déjà dans le programme existant.",
+    "answer": "Dans l'édition 2025 de L'Avenir en commun, La France insoumise propose d'abroger la réforme portant l'âge légal de départ à 64 ans et de restaurer le droit à la retraite à 60 ans à taux plein après 40 annuités de cotisations. Il s'agit d'une proposition politique et non du droit actuellement applicable. La retraite à 60 ans figure également dans les propositions préparatoires à l'actualisation du programme.",
     "sources": [
       "L'Avenir en commun 2025, chapitre 8, page 74 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
-      "Synthèse des contributions : https://melenchon2027.fr/synthese-des-contributions/"
+      "https://melenchon2027.fr/synthese-des-contributions/"
     ]
   },
   {
@@ -151,53 +111,57 @@
     "version": "2025",
     "status": "verified",
     "keywords": [
-      "pension",
-      "pensions",
-      "retraite",
-      "minimum",
-      "petite retraite",
-      "smic",
-      "carriere complete",
-      "pouvoir achat retraite",
-      "pension digne",
-      "minimum vieillesse",
-      "personnes agees",
-      "vieux",
-      "retraite pauvre"
+      "pension", "pensions", "retraite",
+      "petite retraite", "minimum", "smic",
+      "carrière complète", "pouvoir d'achat",
+      "minimum vieillesse", "personnes âgées",
+      "retraite pauvre", "pension digne",
+      "revalorisation", "montant retraite",
+      "combien toucher", "pension minimum"
     ],
-    "answer": "L'édition 2025 propose de porter au minimum toutes les pensions au niveau du SMIC revalorisé pour les personnes ayant une carrière complète, qu'elles aient été salariées, indépendantes ou agricultrices. Elle propose également de porter le minimum vieillesse au niveau du seuil de pauvreté. Ces deux objectifs concernent des dispositifs différents et ne doivent pas être confondus. La proposition ne signifie pas que toutes les pensions seraient automatiquement identiques.",
+    "answer": "L'édition 2025 propose de porter au minimum toutes les pensions au niveau du SMIC revalorisé pour les personnes ayant une carrière complète, qu'elles aient été salariées, indépendantes ou agricultrices. Elle propose également de porter le minimum vieillesse au niveau du seuil de pauvreté. Ces deux objectifs concernent des dispositifs différents. Cela ne signifie pas que toutes les pensions seraient identiques.",
     "sources": [
-      "L'Avenir en commun 2025, chapitre 8, page 74 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
-      "Synthèse des contributions : https://melenchon2027.fr/synthese-des-contributions/"
+      "L'Avenir en commun 2025, chapitre 8, page 74 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf"
     ]
   },
   {
     "id": "retraites-financement",
     "category": "Retraites",
-    "title": "Comment LFI propose-t-elle de financer les retraites ?",
+    "title": "Comment financer le système des retraites ?",
     "version": "2025",
     "status": "verified",
     "keywords": [
-      "financer",
-      "financement",
-      "retraite",
-      "retraites",
-      "cotisations",
-      "dividendes",
-      "actionnaires",
-      "entreprises",
-      "argent",
-      "fric",
-      "thune",
-      "oseille",
-      "budget",
-      "caisse retraite",
-      "regime retraite",
-      "qui paie"
+      "financement", "financer", "retraite",
+      "cotisations", "dividendes", "actionnaires",
+      "entreprises", "argent", "budget",
+      "qui paie", "caisse retraite", "régime",
+      "riches", "capital", "revenus financiers",
+      "intéressement", "participation",
+      "payer les retraites", "déficit",
+      "trou de la sécu", "comment financer"
     ],
-    "answer": "Dans l'édition 2025, le programme propose plusieurs leviers de financement : augmenter le taux de cotisation vieillesse de 0,25 point par an durant le quinquennat et soumettre à cotisation les dividendes, les revenus d'intéressement, de participation, d'épargne salariale ainsi que les revenus financiers des entreprises. Il prévoit également une indexation des retraites sur les salaires. Ces éléments décrivent les mécanismes proposés par le programme. Ils ne constituent pas à eux seuls un chiffrage complet du coût et des recettes de la réforme.",
+    "answer": "Dans l'édition 2025, le programme propose plusieurs leviers : augmenter le taux de cotisation vieillesse de 0,25 point par an durant le quinquennat et soumettre à cotisation les dividendes, les revenus d'intéressement, de participation, d'épargne salariale ainsi que les revenus financiers des entreprises. Il prévoit également une indexation des retraites sur les salaires. Ces mécanismes constituent des propositions programmatiques et ne représentent pas à eux seuls un chiffrage complet de la réforme.",
     "sources": [
       "L'Avenir en commun 2025, chapitre 8, page 74 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf"
+    ]
+  },
+  {
+    "id": "retraites-penibilite",
+    "category": "Retraites",
+    "title": "Que propose LFI pour les métiers pénibles ?",
+    "version": "2025",
+    "status": "verified",
+    "keywords": [
+      "pénibilité", "métier pénible", "travail difficile",
+      "usine", "bâtiment", "chantier", "nuit",
+      "conditions de travail", "ouvrier",
+      "ouvrière", "fatigue", "usure professionnelle",
+      "carrière longue", "retraite anticipée",
+      "exposition", "santé au travail"
+    ],
+    "answer": "L'Avenir en commun propose de mieux prendre en compte la pénibilité du travail et de réduire le temps de travail dans les métiers pénibles ou de nuit, avec notamment le passage aux 32 heures dans ces métiers. L'objectif est de protéger la santé des travailleurs et de mieux reconnaître l'usure professionnelle.",
+    "sources": [
+      "L'Avenir en commun 2025, chapitre 8 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf"
     ]
   },
   {
@@ -207,27 +171,16 @@
     "version": "2025",
     "status": "verified",
     "keywords": [
-      "smic",
-      "salaire",
-      "minimum",
-      "1600 euros",
-      "1600 net",
-      "augmentation",
-      "augmentation salaire",
-      "fin de mois",
-      "payer",
-      "petit salaire",
-      "bas salaire",
-      "paie",
-      "fiche de paie",
-      "net",
-      "travail",
-      "gagner plus"
+      "smic", "salaire", "minimum", "1600 euros",
+      "1600 net", "augmentation", "fin de mois",
+      "petit salaire", "bas salaire", "paie",
+      "fiche de paie", "net", "gagner plus",
+      "salaire minimum", "rémunération",
+      "augmentation salaire", "pouvoir d'achat"
     ],
-    "answer": "Dans l'édition 2025 de L'Avenir en commun, La France insoumise propose de porter immédiatement le SMIC mensuel à 1 600 euros net. Il s'agit d'un objectif politique exprimé dans le programme et non du montant du SMIC actuellement applicable. Le programme prévoit également une indexation des salaires sur l'inflation dans le secteur privé et la fonction publique.",
+    "answer": "Dans l'édition 2025 de L'Avenir en commun, La France insoumise propose de porter immédiatement le SMIC mensuel à 1 600 euros net. Il s'agit d'un objectif politique et non du montant du SMIC actuellement applicable. Le programme prévoit également une indexation des salaires sur l'inflation dans le secteur privé et la fonction publique.",
     "sources": [
-      "L'Avenir en commun 2025, chapitre 8, page 68 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
-      "Synthèse des contributions : https://melenchon2027.fr/synthese-des-contributions/"
+      "L'Avenir en commun 2025, chapitre 8, page 68 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf"
     ]
   },
   {
@@ -237,26 +190,17 @@
     "version": "2025",
     "status": "verified",
     "keywords": [
-      "35 heures",
-      "32 heures",
-      "semaine",
-      "quatre jours",
-      "4 jours",
-      "temps travail",
-      "travailler moins",
-      "bosser moins",
-      "horaires",
-      "heures supplementaires",
-      "conges",
-      "conges payes",
-      "travail nuit",
-      "penibilite",
-      "metier penible"
+      "35 heures", "32 heures", "semaine",
+      "quatre jours", "4 jours", "temps de travail",
+      "travailler moins", "bosser moins",
+      "horaires", "heures supplémentaires",
+      "congés", "congés payés", "travail de nuit",
+      "pénibilité", "métier pénible",
+      "durée légale", "semaine de travail"
     ],
-    "answer": "L'édition 2025 propose de rétablir immédiatement la durée légale hebdomadaire à 35 heures, de passer aux 32 heures dans les métiers pénibles ou de nuit et de favoriser leur généralisation par la négociation collective. Elle propose aussi une sixième semaine de congés payés pour tous les salariés. Le programme distingue donc la durée légale générale et la réduction du temps de travail dans certaines professions.",
+    "answer": "L'édition 2025 propose de rétablir immédiatement la durée légale hebdomadaire à 35 heures, de passer aux 32 heures dans les métiers pénibles ou de nuit et de favoriser leur généralisation par la négociation collective. Elle propose aussi une sixième semaine de congés payés pour tous les salariés.",
     "sources": [
-      "L'Avenir en commun 2025, chapitre 8, page 66 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
-      "Synthèse des contributions : https://melenchon2027.fr/synthese-des-contributions/"
+      "L'Avenir en commun 2025, chapitre 8, page 66 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf"
     ]
   },
   {
@@ -266,27 +210,17 @@
     "version": "2025",
     "status": "verified",
     "keywords": [
-      "vie chere",
-      "inflation",
-      "prix",
-      "bloquer les prix",
-      "prix alimentation",
-      "essence",
-      "carburant",
-      "electricite",
-      "gaz",
-      "courses",
-      "supermarche",
-      "nourriture",
-      "courses alimentaires",
-      "fin de mois",
-      "pouvoir achat",
-      "factures",
-      "loyer",
-      "APL",
-      "prix energie"
+      "vie chère", "inflation", "prix",
+      "bloquer les prix", "alimentation",
+      "essence", "carburant", "électricité",
+      "gaz", "courses", "supermarché",
+      "nourriture", "fin de mois", "factures",
+      "loyer", "apl", "énergie",
+      "pouvoir d'achat", "prix qui augmentent",
+      "faire les courses", "coût de la vie",
+      "réduflation", "shrinkflation"
     ],
-    "answer": "Dans l'édition 2025, le programme propose de bloquer les prix des produits de première nécessité, notamment l'alimentation, l'énergie et les carburants, et d'interdire la réduflation. Il prévoit aussi une augmentation du SMIC à 1 600 euros net mensuel, une hausse des minima sociaux et une revalorisation des APL de 10 %. Ces mesures sont des propositions programmatiques. Leur mise en œuvre et leurs effets économiques doivent être examinés séparément.",
+    "answer": "Dans l'édition 2025, le programme propose de bloquer les prix des produits de première nécessité, notamment l'alimentation, l'énergie et les carburants, et d'interdire la réduflation. Il prévoit aussi une augmentation du SMIC à 1 600 euros net mensuel, une hausse des minima sociaux et une revalorisation des APL de 10 %. Ces mesures sont des propositions programmatiques.",
     "sources": [
       "L'Avenir en commun 2025, chapitre 9, page 75 : https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf"
     ]
